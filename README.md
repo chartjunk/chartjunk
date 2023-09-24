@@ -1,7 +1,9 @@
+# Thanks for stopping by.
+
 - 👋 Hi, I’m @chartjunk
 - 👀 I’m interested in chiropractic, economics, and chiropractic economics.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on nothin', I'm not good enough to collab. 
+- 💞️ I look forward to when I'm good enough to contribute to open source projects. 
 - 📫 How to reach me: chrtjnk@proton.me
 
 <!---
